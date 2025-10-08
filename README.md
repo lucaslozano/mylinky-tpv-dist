@@ -1,2 +1,2 @@
 # mylinky-tpv-dist
-Canal de distribucion MAUI
+Canal de distribucion MAUI.

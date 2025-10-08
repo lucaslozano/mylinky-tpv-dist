@@ -1,0 +1,17 @@
+<AppInstaller
+    xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
+    Version="1.0.0.0"
+    Uri="https://lucaslozano.github.io/mylinky-tpv-dist/MyLinkyTPV.appinstaller"
+    InstallScope="user">
+
+  <MainPackage
+    Name="MyLinkyTPV"
+    Publisher="CN=Privado"
+    Version="1.0.0.30"
+    Uri="https://lucaslozano.github.io/mylinky-tpv-dist/MyLinkyTPV.msix" />
+
+  <UpdateSettings>
+    <AutomaticBackgroundTask>true</AutomaticBackgroundTask>
+    <ForceUpdateFromAnyVersion>true</ForceUpdateFromAnyVersion>
+  </UpdateSettings>
+</AppInstaller>
