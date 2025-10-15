@@ -1,2 +1,2 @@
-# mylinky-tpv-dist
-Canal de distribucion MAUI.
+# privadotpv
+Canal de distribucion PrivadoTPV WinUI3.
