@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://lucaslozano.github.io/mylinky-tpv-dist/PrivadoTPV.appinstaller/PrivadoTPV_x64.appinstaller"
-	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Uri="https://lucaslozano.github.io/mylinky-tpv-dist/PrivadoTPV_x64.appinstaller"
+	Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainPackage
 		Name="f7c4705a-6677-4846-b2a1-717b1e9ea596"
-		Version="1.0.0.0"
+		Version="1.0.1.0"
 		Publisher="CN=privado"
-		Uri="https://lucaslozano.github.io/mylinky-tpv-dist/PrivadoTPV.appinstaller/PrivadoTPV_1.0.0.0_x64_Debug_Test/PrivadoTPV_1.0.0.0_x64_Debug.msix"
+		Uri="https://lucaslozano.github.io/mylinky-tpv-dist/PrivadoTPV_1.0.1.0_x64_Debug_Test/PrivadoTPV_1.0.1.0_x64_Debug.msix"
 		ProcessorArchitecture="x64" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.WindowsAppRuntime.1.8"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://lucaslozano.github.io/mylinky-tpv-dist/PrivadoTPV.appinstaller/PrivadoTPV_1.0.0.0_x64_Debug_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.8.msix"
+			Uri="https://lucaslozano.github.io/mylinky-tpv-dist/PrivadoTPV_1.0.1.0_x64_Debug_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.8.msix"
 			Version="8000.642.119.0" />
 	</Dependencies>
 	<UpdateSettings>
